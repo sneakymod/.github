@@ -18,9 +18,7 @@ sneakyLoader and sneakyPatcher are not ready to be released. Please be patient.
 
 # 🤝 Contributing
 Because this project is in its infancy, unless invited you probably will not be able to help.
-The core development team has access to the decompiled source,
-but it is not legal to release this into the public domain without
-explicit permission from RAC7.
+We do not want to risk RAC7's IP.
 We will do our best to document the game's source
 without revealing the code itself.
 
