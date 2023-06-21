@@ -23,6 +23,6 @@ We will do our best to document the game's source
 without revealing the code itself.
 
 <!-- Link variables -->
-[About]: #about
-[Download]: #download
-[Contributing]: #contributing
+[About]: #-about
+[Download]: #-download
+[Contributing]: #-contributing
