@@ -9,7 +9,7 @@
 </div>
 
 # 📝 About
-SneakyMod is a modloader for Sneaky Sasquatch. This allows custom content to be added to the game.
+SneakyMod is a mod loader for Sneaky Sasquatch. This allows custom content to be added to the game.
 
 # 📂 Download
 sneakyLoader and sneakyPatcher are not ready to be released. Please be patient.
@@ -32,11 +32,14 @@ We will do our best to document the game's source without revealing the code its
 **I have an idea for a mod/I want to create a mod**
 `Great! If you want to create a mod, our SDK for mod development will be available SOON™.`
 
-# 🗞️ Other Info
+# 🗞️ Socials
 **Join our Discord** [here](https://discord.gg/bsfpmrfS3X)!
 **Subscribe to our Youtube** [here](https://www.youtube.com/@SneakyMod)! (@SneakyMod)
 **Follow our Twitter** [here](https://twitter.com/SneakyMod)! (@SneakyMod)
 **Follow our Threads** [here](https://www.threads.net/@SneakyMod)! (@SneakyMod)
+
+# 🌐 Website
+For more information and to download the loader once it is finished, you can visit our website [sneakymod.com](https://sneakymod.com).
 
 <!-- Link variables -->
 [About]: #-about
