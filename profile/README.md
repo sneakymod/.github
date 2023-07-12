@@ -21,16 +21,16 @@ We will do our best to document the game's source without revealing the code its
 
 # ❓ FAQ
 **WHY NO RELEASE YET???**
-> We are a team of hobbyists, meaning we are doing this in our own free time because we feel like it. We don't owe a mod loader to the community. Please have some patience.
+`We are a team of hobbyists, meaning we are doing this in our own free time because we feel like it. We don't owe a mod loader to the community. Please have some patience.`
 
 **Can I help?**
-> If you're experienced at C# or you think in you can help in other ways, feel free to create a GitHub issue.
+`If you're experienced at C# or you think in you can help in other ways, feel free to create a GitHub issue.`
 
 **Wait, so what will this mod do?**
-> SneakyMod is a mod loader, not an actual mod. We will have mods available for download when the launcher releases however.
+`SneakyMod is a mod loader, not an actual mod. We will have mods available for download when the launcher releases however.`
 
 **I have an idea for a mod/I want to create a mod**
-> Great! If you want to create a mod, our SDK for mod development will be available SOON™.
+`Great! If you want to create a mod, our SDK for mod development will be available SOON™.`
 
 <!-- Link variables -->
 [About]: #-about
